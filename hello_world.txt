@@ -1,0 +1,4 @@
+This is just a practice repository.
+Its purpose is to help me learn git
+as well as learning how to use github
+within my text editor.
